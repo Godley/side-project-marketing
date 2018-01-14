@@ -6,6 +6,33 @@
     - The destination for finding, advertising, and managing rental property
     - tenants: On OpenRent there are never any admin fees. Ever. We take down listings as soon as they are let, so no more ghost adverts. And we'll protect your deposit and rent money.
     - Landlords: We find you tenants and help with referencing, contracts and more if you need it.
+  - Pricing:
+    - Landlords:
+      - Free: advertise on openrent, enquiries both ways, advertise for 3 months
+      - £29: 
+        - OpenRent Listing +
+        - Free Enquiries +
+        - Viewing & Enquiry Organiser +
+        - No Hidden Fees +
+        - Advertise Up To 3 Months +
+        - Rightmove Advertising +
+        - Zoopla Advertising +
+        - Gumtree Advertising +
+        - Other Property Websites +
+      - £49:
+        - the above, plus RentNow: 
+          - Referencing +: £20 for tenants to ensure they're serious
+          - Contract Drafting & Digital Signing (AST) More Info +
+          - Deposit Registration More Info +
+          - First Month Rent Collection
+      - Other addons:
+        - Photography: Pro Photos & Floor Plans from £79
+        - Inventory & Check-In / Out from £85
+        - Standalone Reference £20 each
+        - Gas Safety Certificate (CP12) from £45 
+        - Energy Performance Certificate from £49 
+        - Electrical Safety Certificate from £49
+     - Tenant: no admin fees
 
 - [FlatFare](https://flatfair.co.uk)
   - Business model: Service for tenants and landlords without a deposit. Instead, tenants pay a flat annual fee, flatfair handle disputes by talking to the landlord, paying them what they want if it's reasonable then collecting the money from the tenant - if the tenant disputes it they can argue it with flatfair.
