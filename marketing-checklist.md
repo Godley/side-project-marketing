@@ -17,11 +17,11 @@ This section pairs nicely with the [Pre-Launch section of the Sales Checklist](h
 - [ ] Make a list of competitors (see [this list of tools to research competitors](https://www.sideprojectchecklist.com/2017/competition-tools/)).
   
   ##### Competitor data to collect
-  - [ ] Link to their website.
-  - [ ] "One-liners" and taglines competitors use.
+  - [x] Link to their website.
+  - [x] "One-liners" and taglines competitors use.
   - [ ] Pricing and business model.
   - [ ] Blog/RSS link.
-  - [ ] Social media links.
+  - [x] Social media links.
   - [ ] Key employees on social media.
 
 - [ ] Subscribe to RSS feeds of your competitors' blogs.
