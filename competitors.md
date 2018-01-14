@@ -48,4 +48,7 @@
       Intelligent
       Our unique technology changes how property is managed
   - [Twitter](https://twitter.com/noagentapp)
+  - Oneliners:
+    - created with love by landlords for landlords
+    - The better way to manage and let your property
     
