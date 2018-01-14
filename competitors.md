@@ -47,5 +47,5 @@
 
       Intelligent
       Our unique technology changes how property is managed
- - [Twitter](https://twitter.com/noagentapp)
+  - [Twitter](https://twitter.com/noagentapp)
     
