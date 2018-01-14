@@ -31,4 +31,21 @@
     - Movebubble is for you guys, the renters, and it always will be. We're excited to make renting better for the world's renters.
     - Made with  Love by renters
   
+- [No Agent](https://www.noagent.co.uk)
+  - Business model: fully managed service for a monthly fee
+    - Fees
+      No upfront fees until your tenants move in
+
+      Affordable
+      We fully manage properties for much less
+
+      Add-ons
+      You decide how much we manage
+
+      Tie-ins
+      None! You can cancel for free at any time
+
+      Intelligent
+      Our unique technology changes how property is managed
+ - [Twitter](https://twitter.com/noagentapp)
     
