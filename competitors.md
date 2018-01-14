@@ -21,3 +21,12 @@
   - [Twitter](https://twitter.com/HomeLet)
 
 - [AgentOnline](https://agentonline.co.uk): Letting Agent based in bristol who cover the whole country. Usually market properties which are "Rent For Less", referencing checks are generally covered by them but they sometimes do reservation fees.
+
+- [MoveBubble](https://www.movebubble.com)
+  - Business model: App aimed at making finding a property easier. Organises by tube station, some AI in order to work out what you like and don't like, instant removal of ghost properties.
+  - [Twitter](https://twitter.com/movebubble)
+  - Oneliners:
+    - Doing it for renters
+    - London's #1 property rental app
+  
+    
