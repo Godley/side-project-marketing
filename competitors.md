@@ -28,5 +28,7 @@
   - Oneliners:
     - Doing it for renters
     - London's #1 property rental app
+    - Movebubble is for you guys, the renters, and it always will be. We're excited to make renting better for the world's renters.
+    - Made with  Love by renters
   
     
